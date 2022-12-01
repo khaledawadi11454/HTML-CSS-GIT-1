@@ -7,3 +7,15 @@
 }
 
 /* Add your own CSS code below */
+.countries--second {
+  flex-direction: row;
+  justify-content: space-between;
+}
+.countries--third {
+  flex-direction: column;
+  display: flex;
+}
+.countries--fourth {
+  flex-direction: column-reverse;
+  justify-content: space-between;
+}
